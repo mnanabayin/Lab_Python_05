@@ -1,0 +1,14 @@
+#Lab 05
+#*****
+##Problem 1.
+#**********
+a. print do(5) = 51
+
+b. print do(5) = 10
+
+c. print do(inp,5) = 25
+   print inp = 8
+
+d. print outer_list = ['one', 'two', 'three', 'four']
+
+e. print do(6, inp) = 72
